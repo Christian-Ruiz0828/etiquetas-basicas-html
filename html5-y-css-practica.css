@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(209, 209, 209);
+}
+
+h1{
+    text-align:center;
+}
+h3{
+    font-size:30px;
+    color:white;
+    background-color: gray;
+}
+
+
+.p1,.p2,.p3,.p4{
+    font-size:25px;
+    text-align: center;
+}
+
+.text-red{
+    color:red;
+}
+.back-white{
+    background-color:white;
+}
+
+.clear-fix{
+    clear:both;
+    float:none;
+}
